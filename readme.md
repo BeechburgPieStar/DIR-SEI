@@ -5,7 +5,7 @@ Y. Peng et al., "Enhanced Specific Emitter Identification with Limited Data Thro
 
 ![Image text](https://github.com/BeechburgPieStar/DIR-SEI/blob/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240513151514.png)
 
-# The code for test is published!
+# Code
 
 ### Requirement
 
