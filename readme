@@ -1,1 +1,30 @@
-# Enhanced Specific Emitter Identification With Limited Data Through Dual Implicit Regularization
+# DIR-SEI
+Enhanced Specific Emitter Identification With Limited Data Through Dual Implicit Regularization
+
+# The code for test is published!
+
+### Requirement
+
+torch1.12.1+cu116
+
+### File directory description
+
+```
+filetree 
+├── README.md
+├── /dataset/
+|  └── ADS-B
+├── util
+│  ├── data_processing.py
+│  ├── dataaug.py
+|  └── get_dataset.py
+└── main.py
+
+```
+
+### Performance
+
+
+
+### Thanks
+
