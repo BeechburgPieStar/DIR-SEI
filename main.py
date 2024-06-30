@@ -77,12 +77,12 @@ def train(model, loss, train_dataloader, optimizer, epoch):
 
     print('Train Epoch: {} \tLoss: {:.6f}, Accuracy: {}/{} ({:0f}%)\n'.format(
         epoch,
-        all_loss / (len(train_dataloader.dataset) * 4),
+        all_loss / (len(train_dataloader.dataset) * 8),
         correct,
-        len(train_dataloader.dataset) * 4,
-        100.0 * correct / (len(train_dataloader.dataset) * 4))
+        len(train_dataloader.dataset) * 8,
+        100.0 * correct / (len(train_dataloader.dataset) * 8))
     )
-    return all_loss / (len(train_dataloader.dataset) * 4), 100.0 * correct / (len(train_dataloader.dataset) * 4)
+    return all_loss / (len(train_dataloader.dataset) * 8), 100.0 * correct / (len(train_dataloader.dataset) * 8)
 
 
 def evaluate(model, loss, test_dataloader, epoch):
