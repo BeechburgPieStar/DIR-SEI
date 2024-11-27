@@ -31,3 +31,9 @@ filetree
 
 ![image](https://github.com/BeechburgPieStar/DIR-SEI/blob/main/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240513151618.png)
 
+# License / 许可证
+
+本项目基于自定义非商业许可证发布，禁止用于任何形式的商业用途。
+
+This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
+
